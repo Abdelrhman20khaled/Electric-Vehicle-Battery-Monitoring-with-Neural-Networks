@@ -51,7 +51,6 @@ The dataset simulates battery operation under different loading conditions.
 
 - **Mean Absolute Error (MAE)**
 - **Root Mean Squared Error (RMSE)**
-- **R² Score**
 - Learning curves and SoC prediction.
 
 ---
@@ -68,9 +67,8 @@ The dataset simulates battery operation under different loading conditions.
 
 - Python
 - Pandas, NumPy
-- Scikit-learn
-- TensorFlow / Keras
-- Matplotlib / Seaborn
+- Scikit learn
+- Matplotlib 
 
 ---
 
