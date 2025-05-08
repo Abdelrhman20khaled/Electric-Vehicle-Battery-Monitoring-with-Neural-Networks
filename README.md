@@ -38,7 +38,6 @@ The dataset simulates battery operation under different loading conditions.
 
 ## 🧠 Model: Artificial Neural Network (ANN)
 
-- Implemented using **TensorFlow/Keras** (or specify your framework)
 - Input features: Voltage, Current, and Time-derived metrics
 - Output: Predicted SoC (0–100%)
 - Architecture:
@@ -53,7 +52,7 @@ The dataset simulates battery operation under different loading conditions.
 - **Mean Absolute Error (MAE)**
 - **Root Mean Squared Error (RMSE)**
 - **R² Score**
-- Learning curves and SoC prediction vs. ground truth plots
+- Learning curves and SoC prediction.
 
 ---
 
