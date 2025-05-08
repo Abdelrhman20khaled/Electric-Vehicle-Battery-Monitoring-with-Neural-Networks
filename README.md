@@ -2,7 +2,7 @@
 
 This project is an educational machine learning pipeline designed to predict the **State of Charge (SoC)** of an electric vehicle battery using artificial neural networks (ANN). The model is trained on a dataset containing electrical parameters such as **current**, **voltage**, and **timestamps**, simulating real-world EV battery data.
 
-## 📚 Project Overview
+## 📌 Project Overview
 
 This project follows a complete data science lifecycle:
 1. **Data Collection**
@@ -14,7 +14,7 @@ This project follows a complete data science lifecycle:
 
 ---
 
-## 📁 Dataset Description
+## 📌 Dataset Description
 
 The dataset includes:
 - `Timestamp`: Time of data recording
@@ -27,7 +27,7 @@ The dataset simulates battery operation under different loading conditions.
 
 ---
 
-## 🧹 Data Preprocessing
+## 📌 Data Preprocessing
 
 - Handled missing values
 - Removed outliers using standard deviation thresholds
@@ -55,7 +55,7 @@ The dataset simulates battery operation under different loading conditions.
 
 ---
 
-## 🎯 Project Goals
+## 📌 Project Goals
 
 - Learn end-to-end machine learning workflow in a real-world scenario
 - Apply ANN for a regression problem in the energy domain
@@ -82,7 +82,7 @@ The dataset simulates battery operation under different loading conditions.
 
 ---
 
-## 🧑‍💻 Author
+## 📌 Author
 
 **Abdelrahman Khaled**  
 [LinkedIn] ([1] (https://www.linkedin.com/in/abdelrahman-khaled-12a8b6242/])
