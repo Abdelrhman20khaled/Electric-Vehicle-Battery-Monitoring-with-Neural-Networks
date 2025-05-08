@@ -88,8 +88,10 @@ The dataset simulates battery operation under different loading conditions.
 [LinkedIn] ([1] (https://www.linkedin.com/in/abdelrahman-khaled-12a8b6242/])
 
 **Ahmed Mossad Suliman**  
+[LinkedIn] ([2] (https://www.linkedin.com/in/ahmed-mousad-a89118326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app])
 
 **Mohamed Ali Suliman**  
+[LinkedIn] ([3] (https://www.linkedin.com/in/muhammed-aly-88115r?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])
 
 ---
 
