@@ -85,7 +85,11 @@ The dataset simulates battery operation under different loading conditions.
 ## 🧑‍💻 Author
 
 **Abdelrahman Khaled**  
-[LinkedIn]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/abdelrahman-khaled-12a8b6242/])
+[LinkedIn]([1](https://www.linkedin.com/in/abdelrahman-khaled-12a8b6242/])
+
+**Ahmed Mossad Suliman**  
+
+**Mohamed Ali Suliman**  
 
 ---
 
